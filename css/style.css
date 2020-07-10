@@ -110,3 +110,11 @@ body{
 .information img{
     margin-top: 100px !important;
 }
+
+/* ------------ copyright ------------- */
+
+.copyright{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
