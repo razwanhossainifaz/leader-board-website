@@ -65,6 +65,10 @@ body{
     margin-bottom: 10px;
     color: #562EFF;
 }
+.details a{
+    text-decoration: none;
+    color: #562EFF;
+}
 
 /*---------- course section ---------------*/
 
