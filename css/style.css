@@ -5,6 +5,9 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
 }
+.nav-link{
+    font-weight: 600;
+}
 .hr-style{
     width: 100px;
     height: 5px;
