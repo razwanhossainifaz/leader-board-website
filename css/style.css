@@ -11,6 +11,7 @@ body{
 .hr-style{
     width: 100px;
     height: 5px;
+    margin-bottom: 40px;
     border-radius: 5px;
     background-image: linear-gradient(120deg, #e65c00, #ffb380);
 }
@@ -91,6 +92,6 @@ body{
     padding: 2px;
     border-radius: 20px;
 }
-.text-style{
-    display: inline !important;
+.row h3{
+    font-weight: 600;
 }
