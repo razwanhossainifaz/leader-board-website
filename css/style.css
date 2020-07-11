@@ -110,6 +110,20 @@ body{
 .information img{
     margin-top: 100px !important;
 }
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #ffcc99, #ff8000);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.link-button:hover{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #fd7eb3, #EC4C77);
+    transition: 0.25s ease-in-out;
+}
 
 /* ------------ copyright ------------- */
 
